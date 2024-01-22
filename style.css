@@ -3,6 +3,7 @@ body {
 }
 p {
   font-size: medium;
+  color: rgb(89, 251, 8);
 }
 .box {
   width: 300px;
