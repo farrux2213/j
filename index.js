@@ -5,3 +5,5 @@ console.log(Math.random() * 22);
 let www = Math.random() * 22;
 console.log(Math.floor(www));
 console.log(Math.pow(Math.floor(www), 2));
+var kkk = "Asqaraliyev Farrux";
+console.log(kkk);
