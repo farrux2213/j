@@ -7,3 +7,5 @@ console.log(Math.floor(www));
 console.log(Math.pow(Math.floor(www), 2));
 var kkk = "Asqaraliyev Farrux";
 console.log(kkk);
+const tezlanish_formulasi = "a=F/m";
+console.log(tezlanish_formulasi);
