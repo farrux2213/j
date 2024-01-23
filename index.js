@@ -9,3 +9,4 @@ var kkk = "Asqaraliyev Farrux";
 console.log(kkk);
 const tezlanish_formulasi = "a=F/m";
 console.log(tezlanish_formulasi);
+let UFC_qiroli = "Khabib Nurmagamedov";
